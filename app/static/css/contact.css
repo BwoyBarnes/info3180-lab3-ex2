@@ -1,0 +1,17 @@
+#contact_form {
+    background-color: white;
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 750px;
+    }
+
+    .col-md-4 {
+        width: inherit;
+    }
+}
+
+
+
+
